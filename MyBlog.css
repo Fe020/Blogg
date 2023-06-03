@@ -1,0 +1,75 @@
+body{
+    background-image: url(p1.jpeg);
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#head{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-family: cursive;
+    border-color:rgb(0, 0, 0);
+    border-radius: 20px;
+    border-width: 5px;
+    border-style: solid;
+    border-bottom: 5px;
+    width: 200px;
+    margin-top: 70px;
+}
+#nav{
+    padding: 20px;
+    background-color: rgb(210, 82, 82);
+    margin-top: 90px;
+    /* margin-left: 50px; */
+    font-family: cursive;
+    /* font-size: x-large; */
+    width: 1195px;
+    border-left: rgb(0, 0, 0) solid 15px;
+    border-right: rgb(0, 0, 0) solid 15px;
+    border-radius: 25px;
+    margin-bottom: 50px;
+}
+li{
+    display: inline;
+    font-size: 30px;
+    border: rgb(0, 0, 0) solid 2px;
+    padding: 5px;
+    border-radius: 20px;
+    margin-left: 175px;
+    margin-right: 100px;
+    color: red;
+    border-bottom: 5px;
+}
+
+.wel{
+    margin-top: 20px;
+    color: black;
+    font-size: x-large;
+    background-color: rgb(116, 146, 33);
+    width: 800px;
+    border: rgb(255, 255, 255) solid 1px;
+    border-radius: 20px;
+    /* border-left:rgb(0, 0, 0) solid 15px; */
+    padding: 5px 20px;
+}
+
+#home{
+    background-color: blue;
+    font-size: larger;
+    padding: 50px;
+    width: 1135px;
+    border-left: rgb(0, 0, 0) solid 15px;
+    border-right: rgb(0, 0, 0) solid 15px;
+    border-radius: 25px;  
+    margin-top: 50px;
+}
+
+#h{
+    width: 150px;
+    border-color:rgb(0, 0, 0);
+    border-radius: 20px;
+    border-width: 5px;
+    border-style: solid;
+    border-bottom: 5px;
+}
