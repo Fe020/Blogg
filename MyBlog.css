@@ -125,3 +125,19 @@ li{
     color: rgb(232, 232, 232);
     margin-bottom: 20px;
 }
+legend{
+    font-family: sans-serif;
+    font-weight: 300px;
+    font-stretch: expanded;
+    margin-left: 50px;
+}
+fieldset{
+    border-radius: 25px;
+}
+
+
+label{
+    color: rgb(255, 255, 255);
+    margin-left: 50px;
+    /* width: 70px; */
+}
